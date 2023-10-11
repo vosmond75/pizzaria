@@ -1,0 +1,17 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "setup": "npm install --prefix ./client"
+  },
+  "author": "Sean Morrow",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.0.37",
+    "next": "^13.5.4",
+    "nextjs": "^0.0.3",
+    "setup": "^0.0.3"
+  }
+}
